@@ -6,7 +6,7 @@ public class Movement : MonoBehaviour
 {
     // Start is called before the first frame update
     [SerializeField]
-    float speed = 1000f;
+    float speed = 500f;
     [SerializeField]
     Vector2 direction;
 
