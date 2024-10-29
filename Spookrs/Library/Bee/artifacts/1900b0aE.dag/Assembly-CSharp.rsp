@@ -376,6 +376,7 @@
 "Assets/Movement.cs"
 "Assets/Plant.cs"
 "Assets/PlayerInput.cs"
+"Assets/TileData.cs"
 -langversion:9.0
 /deterministic
 /optimize+

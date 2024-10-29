@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 054dcc57857aa044b9da416bd983852a, type: 3}
+  m_Name: FarmingTileData
+  m_EditorClassIdentifier: 
+  tiles:
+  - {fileID: 11400000, guid: f50a0792041c58546b2d90bfcfb99a08, type: 2}
+  - {fileID: 11400000, guid: 61f1030bc42c0df4aab4084d468d07b5, type: 2}
+  - {fileID: 11400000, guid: 33e948493d1fef04d9cf4791ebab734a, type: 2}
+  - {fileID: 11400000, guid: 6dbe624e03f3d6843b3cde9cb1b36ea1, type: 2}
+  - {fileID: 11400000, guid: 70a6f283cebfbc0458643dae4662f410, type: 2}
+  - {fileID: 11400000, guid: 3e002ea034ddc7a4e82c785c1f93759b, type: 2}
+  - {fileID: 11400000, guid: ca5e4ed0f42af354eb39379f3028ff4c, type: 2}
+  - {fileID: 11400000, guid: 3975c605ad39e3c47b1c9fe502954e7f, type: 2}
+  - {fileID: 11400000, guid: 53e30a96d67ef784baab72786873debd, type: 2}
+  plantable: 1
